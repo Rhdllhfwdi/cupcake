@@ -9,7 +9,7 @@ let userID = '2f16d55b-d9dd-450d-be3b-739ad6767196';
 const bestCFIP = "www.gov.se"
 
 // 用于 CF 网站的代理 IP
-const proxyIPs = ['47.74.61.146'];
+const proxyIPs = ['103.75.188.126'];
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 
 let dohURL = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
